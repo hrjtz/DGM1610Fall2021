@@ -9,9 +9,9 @@ public class Operations : MonoBehaviour
     {
         int myNum = 7;
         char myChar = 'z';
-        string myString = 'Heya dudes.';
+        string myString = "Heya Dudes.";
         bool myBool = false;
-        float myFloat = '3.1415';
+        float myFloat = 3.14;
     }
 
     // Update is called once per frame

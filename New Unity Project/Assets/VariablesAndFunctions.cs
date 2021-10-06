@@ -18,6 +18,6 @@ public class VariablesAndFunctions : MonoBehaviour
     {
         int result;
         result = number * 2;
-        return result
+        return result;
     }
 }

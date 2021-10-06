@@ -9,7 +9,7 @@ public class NewBehaviourScript : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.R))
         {
-            GetComponent,Renderer. ().material.color = Color.red;
+            GetComponent<Renderer>().material.color = Color.red;
         }
         if (Input.GetKeyDown(KeyCode.G))
         {
