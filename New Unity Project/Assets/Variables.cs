@@ -11,7 +11,7 @@ public class Operations : MonoBehaviour
         char myChar = 'z';
         string myString = "Heya Dudes.";
         bool myBool = false;
-        float myFloat = 3.14;
+        double myFloat = 3.14;
     }
 
     // Update is called once per frame
